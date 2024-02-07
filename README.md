@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/tharangachaminda/content_based_recommender_system/blob/main/netflix_recommender.jpg)
 # Recommendation System (Content Based)
 
 In this python project, I am trying to build a movie recommendation system based on *user interactions*. For example, 
@@ -39,5 +39,6 @@ I have used [*rake_nltk*](https://csurfer.github.io/rake-nltk/_build/html/index.
 5. Basic usage of *rake_nltk* and *Rake()* class
 6. *CountVectorizer()* to convert *Bag of words* to numeric data
 
+## Demo
+[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/recommender_content_based)
 
-![Logo](https://github.com/tharangachaminda/content_based_recommender_system/blob/main/netflix_recommender.jpg)
