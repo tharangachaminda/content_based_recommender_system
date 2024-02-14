@@ -40,5 +40,5 @@ I have used [*rake_nltk*](https://csurfer.github.io/rake-nltk/_build/html/index.
 6. *CountVectorizer()* to convert *Bag of words* to numeric data
 
 ## Demo
-[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/recommender_content_based)
+[Try it on my profile](http://ec2-52-43-46-199.us-west-2.compute.amazonaws.com/recommender_content_based)
 
